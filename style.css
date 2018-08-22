@@ -1,0 +1,122 @@
+body.sigin-body {
+   
+}
+
+.container.signin-container {
+    margin-top: 8%;
+}
+
+.card.signin-card {
+    padding: 40px 0px 20px;
+    background-color: #fff;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+    -webkit-box-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+    -moz-box-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+}
+
+img.signin-img {
+    padding: 0 2rem 2rem;
+    margin: auto;
+    display: block;
+}
+
+form.signin-form {
+    max-width: 350px;
+    margin: auto;
+    text-align: center;
+    display: block;
+}
+
+button.signin-btn {
+    color: #fff;
+    background-color: #28a745;
+    border-color: #28a745;
+    margin-bottom: 1.2px;
+    text-align: center;
+}
+
+.rememberMeCheckBox {
+    padding: 10px 2px 5px;
+    margin-left: 20px;
+}
+
+a.forgetPasswordLink {
+    margin-right: 0;
+    margin-left: 20px;
+}
+
+.createNewAccount {
+    font-size: 2rem;
+    text-align: center;
+    display: block;
+    margin-top: 15px;
+}
+
+.btn-Sign-up {
+    font-size: 1.5rem;
+    border: 4px solid;
+    
+}
+
+.jumbotron {
+    text-align: center;
+    background: none;
+}
+
+.sectionLight {
+    padding: 2rem;
+    background-image: linear-gradient(-90deg, #e6ffe6, #fff);
+}
+
+.sectionDark {
+    padding: 2rem;
+    background-image: linear-gradient(-90deg, #e6ffe6, #fff);
+}
+
+
+.footerImg {
+    padding: 15px;
+    
+}
+
+.fab {
+    margin: 10px;
+}
+
+.fa-facebook-square {
+    color: #3b5998;
+}
+
+.fa-google-plus-square {
+    color: #c32f10;
+}
+
+.fa-instagram {
+    color: #ffffff;
+}
+
+.socialWrapper {
+    margin: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
